@@ -175,7 +175,7 @@ li {
 
 .portfolio h1 {
     font-size: 65px;
-    color: #023a3e;
+    color: #007c85;
     text-align: center;
 
 }
@@ -230,6 +230,7 @@ li {
 .project-thumbnail:hover #RJS {
     color: magenta;
 }
+
 .project-thumbnail:hover #API {
     color: rgb(255, 102, 0);
 }
@@ -259,7 +260,7 @@ li {
 }
 
 .project-describtion h4 {
-    color: #006c74;
+    color: #009b9b;
     font-size: 20px;
     text-align: center;
     transition: color 0.3s;
@@ -280,7 +281,7 @@ li {
 
 .project-describtion code {
     font-size: 14px;
-    color: rgba(255, 255, 255, .3)
+    color: rgba(255, 255, 255, .6)
 }
 
 .contact {
