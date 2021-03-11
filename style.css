@@ -64,13 +64,12 @@ code {
 
 .photo {
     object-fit: cover;
+    object-position: 100% 20%;
     height: 250px;
     width: 250px;
     flex-shrink: 0;
     border-radius: 125px;
     border: 1px solid #D9D9D9;
-    background-size: cover;
-    background-position: center;
 }
 
 .about-me p {
