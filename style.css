@@ -234,6 +234,10 @@ li {
     color: rgb(255, 102, 0);
 }
 
+.project-thumbnail:hover #UNT {
+    color: rgb(0, 190, 32);
+}
+
 .project-thumbnail:hover .project-img {
     filter: none;
 }
